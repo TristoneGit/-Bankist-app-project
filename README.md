@@ -8,5 +8,18 @@ Username (user) : jd
 pin : 2222
 
 
-This repository is a frontend demo project intended to showcase UI/UX design and JavaScript implementation. 
-All financial data, balances, and transactions displayed in the application are simulated and do not represent real money or real accounts.
+## © Copyright & Credits
+
+This project is based on the **Bankist App** concept from  
+**Jonas Schmedtmann’s JavaScript course**.
+
+- Original design and idea © Jonas Schmedtmann
+- This repository is for **personal learning and portfolio practice only**
+
+Not affiliated with any real bank or financial institution.
+
+
+## 📄 License
+
+This project is provided for **educational purposes only**.  
+Do not use for commercial or production use.
